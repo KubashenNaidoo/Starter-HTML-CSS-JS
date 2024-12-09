@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Starter-HTML-CSS-JS
 Starter template for HTML CSS and Javascript website
 =======
@@ -54,4 +53,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This template is a starting point for building web projects using HTML, CSS, and JavaScript.
 - Feel free to extend and customize the template to suit your needs!
->>>>>>> master
